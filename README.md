@@ -19,7 +19,7 @@ The x-value in the graphs shown are the total number of days since December 31, 
 * 2nd Derivative of Total Cases
 ## Example Images
 ---
-|<img src="covid19ScrapeGraphs/imgs/TotalCasesUS.png" width="40%">| <img src="covid19ScrapeGraphs/imgs/NewCasesUS.png" width="40%">|
-|<img src="covid19ScrapeGraphs/imgs/DerivativeUS.png" width="40%">|<img src="covid19ScrapeGraphs/imgs/2ndDerivativeUS.png" width="40%">|
+<img src="covid19ScrapeGraphs/imgs/TotalCasesUS.png" width="40%"> <img src="covid19ScrapeGraphs/imgs/NewCasesUS.png" width="40%">
+<img src="covid19ScrapeGraphs/imgs/DerivativeUS.png" width="40%"> <img src="covid19ScrapeGraphs/imgs/2ndDerivativeUS.png" width="40%">
 
 
