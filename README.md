@@ -3,6 +3,12 @@ This repo is my own personal playground for using the `python requests` module a
 #
 ## COVID-19 Graph Visualzations
 This is a quick script that can be run to view real-time updated graphs of the current COVID-19 data in any country of your choice. 
+## Dependencies 
+    requests
+    csv
+    contextlib 
+    matplotlib.pyplot 
+    argparse
 ## How To Run 
     python3 main.py --iso=<iso country code>
 ## Graph Info

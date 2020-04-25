@@ -1,5 +1,4 @@
 import requests
-import html
 import csv
 from contextlib import closing
 import matplotlib.pyplot as plt
